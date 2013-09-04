@@ -1,6 +1,6 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://blog.afaker.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
@@ -16,9 +16,9 @@ theme:
     hacker_news: swanson
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
-  tagline: "weak opinions, strongly held"
+  name: Bruce Teng
+  email: toozoofoo@gmail.com
+  tagline: "optimiz for happiness"
 
   # Google Analytics key, leave blank to ignore
   google_analytics_key: UA-xxxx-x
